@@ -1,6 +1,7 @@
 ## Hi there, this is Juyong Rhee (Ben) 👋
 
 🎓 I'm a student at **Sungkyunkwan University (SKKU)**, aspiring to become a skilled software developer with a passion for building innovative web application.
+
 💻 I specialize in **backend development**, and I'm currently expanding my skill set in **frontend** and **machine learning** to collaborate on a wider range of projects.
 
 
