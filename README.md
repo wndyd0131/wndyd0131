@@ -2,21 +2,21 @@
 
 🎓 I'm a student at **Sungkyunkwan University (SKKU)**, aspiring to become a skilled software developer with a passion for building innovative web application.
 
-💻 I specialize in **backend development**, and I'm currently expanding my skill set in **frontend** and **machine learning** to collaborate on a wider range of projects.
+💻 I specialize in **backend development**, and I'm currently expanding my skill set in **frontend** and **AI** to collaborate on a wider range of projects.
 
 
 ## 🔭 Projects & Contributions
-- [Congraduation](https://github.com/wndyd0131/Congraduation)
-  - A platform for students to celebrate their graduation more interactively, sending a personal link for celebratory messages.
-  - *Role*: ***Backend Development***
 - [SKKLUB](https://github.com/wndyd0131/skklub-backend)
   - A club management system for SKKU, supporting both club recruiters and club searchers.
   - *Role*: ***CI/CD & Data Migration***
+- [Perfect Studymate](https://github.com/wndyd0131/2024-Capstone-Design-Project)
+  - An AI-oriented course project aimed at supporting students who have hard time studying course materials with ChatGPT due to its hallucination or different terms it provides, providing **RAG Model Chatbot** that reads pdf files provided by users to provide more relevant answers.
+  - *Role*: ***Backend Development***
 - [Congcampus](https://github.com/wndyd0131/c-campus-backend)
   - Renewal of **Congraduation**, changing code language from JavaScript to Java for better maintenance.
   - *Role*: ***Backend Development***
-- [Perfect Studymate](https://github.com/wndyd0131/2024-Capstone-Design-Project)
-  - An AI-oriented course project aimed at supporting students who have hard time studying course materials with ChatGPT due to its hallucination or different terms it provides, providing **RAG Model Chatbot** that reads pdf files provided by users to provide more relevant answers.
+- [Congraduation](https://github.com/wndyd0131/Congraduation)
+  - A platform for students to celebrate their graduation more interactively, sending a personal link for celebratory messages.
   - *Role*: ***Backend Development***
 ## 🛠️ Technologies & Skills
 ### Languages
@@ -47,7 +47,8 @@
 ## 🌱 Currently Learning
 - Spring Boot
 - React
-- Machine Learning
+- Deep Learning + PyTorch
+- Math
 
 ## 📫 Connect with Me
 Feel free to reach out if you'd like to collaborate or dicuss!
