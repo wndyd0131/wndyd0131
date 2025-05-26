@@ -6,18 +6,22 @@
 
 
 ## 🔭 Projects & Contributions
-- [SKKLUB](https://github.com/wndyd0131/skklub-backend)
-  - A club management system for SKKU, supporting both club recruiters and club searchers.
-  - *Role*: ***CI/CD & Data Migration***
+- [Congraduation](https://github.com/wndyd0131/Congraduation)
+  - A platform for students to celebrate their graduation more interactively, sending a personal link for celebratory messages.
+  - *Role*: ***Backend Development***
 - [Perfect Studymate](https://github.com/wndyd0131/2024-Capstone-Design-Project)
   - An AI-oriented course project aimed at supporting students who have hard time studying course materials with ChatGPT due to its hallucination or different terms it provides, providing **RAG Model Chatbot** that reads pdf files provided by users to provide more relevant answers.
   - *Role*: ***Backend Development***
 - [Congcampus](https://github.com/wndyd0131/c-campus-backend)
   - Renewal of **Congraduation**, changing code language from JavaScript to Java for better maintenance.
   - *Role*: ***Backend Development***
-- [Congraduation](https://github.com/wndyd0131/Congraduation)
-  - A platform for students to celebrate their graduation more interactively, sending a personal link for celebratory messages.
-  - *Role*: ***Backend Development***
+- [SKKLUB](https://github.com/wndyd0131/skklub-backend)
+  - A club management system for SKKU, supporting both club recruiters and club searchers.
+  - *Role*: ***CI/CD & Data Migration***
+- Whataburger Renewal (Ongoing)
+  - A personal redesign of Whataburger's online ordering experience with a cleaner UI and smoother UX, focusing on front-end design, responsive layouts, and a more structured backend system for customization and ordering.
+  - [Frontend](https://github.com/wndyd0131/whattheburger_frontend)
+  - [Backend](https://github.com/wndyd0131/whattheburger_backend)
 ## 🛠️ Technologies & Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
